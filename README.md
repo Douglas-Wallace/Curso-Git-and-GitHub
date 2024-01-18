@@ -1,4 +1,4 @@
-# Git and GitHub
- personal repository for getting started with **git and github**
+# Git e GitHub
+ Repositorio pessoal paara aprender **git e github**
 
-from Douglas
+De Douglas
